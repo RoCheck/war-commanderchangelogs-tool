@@ -1,3 +1,30 @@
-V1.0.0,
+# Changelog
 
-added test
+All notable changes to the War Commanders Automation Tool will be documented in this file.
+
+## [Unreleased]
+### Added
+- Initial project structure with modular design
+- Core functionality for macro recording and playback
+- Basic GUI interface with Tkinter
+- Security module for credential management
+- Multi-account support with encryption
+- Automatic updates system
+- Backup and restore functionality
+
+### Changed
+- Optimized module loading for better performance
+- Improved error handling and logging
+- Enhanced GUI responsiveness
+
+### Fixed
+- Fixed package dependency detection
+- Resolved tab switching lag issues
+- Fixed potential memory leaks in GUI
+
+## [0.1.0] - 2025-07-23
+### Added
+- Initial release of War Commanders Automation Tool
+- Basic macro recording and playback functionality
+- Simple command-line interface
+- Basic error handling
