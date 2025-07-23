@@ -2,7 +2,6 @@
 
 All notable changes to the War Commanders Automation Tool will be documented in this file.
 
-## [Unreleased]
 ### Added
 - Initial project structure with modular design
 - Core functionality for macro recording and playback
