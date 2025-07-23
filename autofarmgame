@@ -1,1 +1,24 @@
+ Changelog (v1.0.0)
+🚀 Initial release with PyQt6 GUI and full automation platform
 
+🎯 Macro recording with anti-detection (bezier curves, randomized order, scroll drift)
+
+🔒 Encrypted multi-account management with 6-digit verification
+
+🌐 ProtonVPN integration and launch detection
+
+🧠 Gameplay automation: auto-upgrade, collect, defend, attack patterns, events
+
+💡 Visual macro editor with timeline and action properties
+
+📋 Profile manager and secure credential handling
+
+🧪 Scheduled tasks (⚠️ Beta feature)
+
+🔄 Changelog and update fetch from GitHub
+
+💾 Backup/Restore to external drives
+
+🕵️‍♂️ Anti-debugging protection from Wireshark & debuggers
+
+📊 Advanced logging system with export
